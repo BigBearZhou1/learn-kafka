@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="31e5df0c-8159-4bb8-8340-f67217c60cbc" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="E:\work\maven\repo" />
+        <option name="mavenHome" value="E:/work/maven/apache-maven-3.2.5" />
+        <option name="userSettingsFile" value="E:\work\maven\apache-maven-3.2.5\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2ZAjb9VV4xYdvPLaZowOglnJ6ac" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RunManager" selected="Application.MyPartitionerProducer">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zwz.Main" />
+      <module name="kafka-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zwz.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyPartitionerProducer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zwz.producer.MyPartitionerProducer" />
+      <module name="kafka-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zwz.producer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MyPartitionerProducer" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="31e5df0c-8159-4bb8-8340-f67217c60cbc" name="Default Changelist" comment="" />
+      <created>1701871846884</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1701871846884</updated>
+      <workItem from="1701871850946" duration="827000" />
+      <workItem from="1702733455815" duration="1673000" />
+      <workItem from="1704100141253" duration="620000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2750" y="-83" key="#com.intellij.ide.util.MemberChooser" timestamp="1702733703937">
+      <screen x="1920" y="-348" width="2048" height="1120" />
+    </state>
+    <state x="2750" y="-83" key="#com.intellij.ide.util.MemberChooser/1920.-348.2048.1120/0.0.1920.1040@1920.-348.2048.1120" timestamp="1702733703937" />
+    <state width="2005" height="367" key="GridCell.Tab.0.bottom" timestamp="1702822368000">
+      <screen x="1920" y="-348" width="2048" height="1120" />
+    </state>
+    <state width="2005" height="367" key="GridCell.Tab.0.bottom/1920.-348.2048.1120/0.0.1920.1040@1920.-348.2048.1120" timestamp="1702822368000" />
+    <state width="2005" height="367" key="GridCell.Tab.0.center" timestamp="1702822368000">
+      <screen x="1920" y="-348" width="2048" height="1120" />
+    </state>
+    <state width="2005" height="367" key="GridCell.Tab.0.center/1920.-348.2048.1120/0.0.1920.1040@1920.-348.2048.1120" timestamp="1702822368000" />
+    <state width="2005" height="367" key="GridCell.Tab.0.left" timestamp="1702822368000">
+      <screen x="1920" y="-348" width="2048" height="1120" />
+    </state>
+    <state width="2005" height="367" key="GridCell.Tab.0.left/1920.-348.2048.1120/0.0.1920.1040@1920.-348.2048.1120" timestamp="1702822368000" />
+    <state width="2005" height="367" key="GridCell.Tab.0.right" timestamp="1702822368000">
+      <screen x="1920" y="-348" width="2048" height="1120" />
+    </state>
+    <state width="2005" height="367" key="GridCell.Tab.0.right/1920.-348.2048.1120/0.0.1920.1040@1920.-348.2048.1120" timestamp="1702822368000" />
+    <state width="2005" height="367" key="GridCell.Tab.1.bottom" timestamp="1702822368000">
+      <screen x="1920" y="-348" width="2048" height="1120" />
+    </state>
+    <state width="2005" height="367" key="GridCell.Tab.1.bottom/1920.-348.2048.1120/0.0.1920.1040@1920.-348.2048.1120" timestamp="1702822368000" />
+    <state width="2005" height="367" key="GridCell.Tab.1.center" timestamp="1702822368000">
+      <screen x="1920" y="-348" width="2048" height="1120" />
+    </state>
+    <state width="2005" height="367" key="GridCell.Tab.1.center/1920.-348.2048.1120/0.0.1920.1040@1920.-348.2048.1120" timestamp="1702822368000" />
+    <state width="2005" height="367" key="GridCell.Tab.1.left" timestamp="1702822368000">
+      <screen x="1920" y="-348" width="2048" height="1120" />
+    </state>
+    <state width="2005" height="367" key="GridCell.Tab.1.left/1920.-348.2048.1120/0.0.1920.1040@1920.-348.2048.1120" timestamp="1702822368000" />
+    <state width="2005" height="367" key="GridCell.Tab.1.right" timestamp="1702822368000">
+      <screen x="1920" y="-348" width="2048" height="1120" />
+    </state>
+    <state width="2005" height="367" key="GridCell.Tab.1.right/1920.-348.2048.1120/0.0.1920.1040@1920.-348.2048.1120" timestamp="1702822368000" />
+    <state x="2637" y="36" key="com.intellij.ide.util.TipDialog" timestamp="1704100145585">
+      <screen x="1920" y="-348" width="2048" height="1120" />
+    </state>
+    <state x="2637" y="36" key="com.intellij.ide.util.TipDialog/1920.-348.2048.1120/0.0.1920.1040@1920.-348.2048.1120" timestamp="1704100145585" />
+    <state x="2607" y="-105" width="672" height="678" key="search.everywhere.popup" timestamp="1701872190374">
+      <screen x="1920" y="-348" width="2048" height="1120" />
+    </state>
+    <state x="2607" y="-105" width="672" height="678" key="search.everywhere.popup/1920.-348.2048.1120/0.0.1920.1040@1920.-348.2048.1120" timestamp="1701872190374" />
+  </component>
+</project>
